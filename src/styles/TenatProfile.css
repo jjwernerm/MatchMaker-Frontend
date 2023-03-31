@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0px;
+
+}
+
+.card-profile {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+.form {
+    background-color: #122953;
+}

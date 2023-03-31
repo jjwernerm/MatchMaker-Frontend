@@ -1,0 +1,18 @@
+.perfil-card {
+  background-color: #122953;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1em;
+
+
+}
+
+.perfil-form {
+  width: 100vw;
+  height: 70vh;
+}
+
+.form-base {
+  width: 95% !important;
+
+}

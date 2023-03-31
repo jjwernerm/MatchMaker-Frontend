@@ -1,0 +1,23 @@
+.canchas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 8rem;
+    justify-items: center;
+    align-items: center;
+    max-width: 1300px;
+    margin: 0 auto;
+    min-height: 500px;
+    max-height: 80vh;
+}
+
+.canchas-card {
+    background-color: #122953;
+    color: #fafafa;
+    height: 65vh;
+}
+
+.cancha-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
